@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"  height="200"/>
   <h1 align="center">Hi I´m Cristian Vilches</h1>
-  <h3 align="center"> Megusta Programar</h3>
+  <h3 align="center"> En mis tiempos libres me gusta Programar. Siempre estoy constantemente investigando nueva informacion sobre el área de las TI
+  me considero una persona sociable. Actualmente estoy estudiando Inegeniería en Informática y mi sueño es trabajar en una empresa que genere soluciones 
+  informaticas
+  </h3>
 </div>
 
 ---
