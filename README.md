@@ -18,6 +18,8 @@
   <h3>🔨 Languages and Tools</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
   </div>
+  
 </div>
 
