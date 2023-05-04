@@ -3,8 +3,8 @@
   <h1 align="center">Hi I´m Cristian Vilches</h1>
   <h4 align="center"> 
   En mis tiempos libres me gusta Programar. Siempre estoy constantemente investigando nueva informacion sobre el área de las TI
-  me considero una persona sociable. Actualmente estoy estudiando Ingeniería en Informática y mi sueño es trabajar en una empresa que </h4>
-  <h4>genere soluciones informaticas y creacion de nuevos proyectos </h4>
+  me considero una persona sociable. Actualmente estoy estudiando Ingeniería en Informática y mi sueño es trabajar en una empresa que 
+  genere soluciones informaticas y creacion de nuevos proyectos </h4>
 </div>
 
 ---
