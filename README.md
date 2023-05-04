@@ -7,7 +7,7 @@
 ---
 ###   :smiley:  About Me:
 - 🔭 I’m currently working on my title portfolio project
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP with Laravel
 - 👯 I seek to collaborate in any project in which I can contribute with my knowledge
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
