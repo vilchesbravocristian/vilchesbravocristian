@@ -1,6 +1,10 @@
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <h1 align="center">Hi I´m Cristian Vilches</h1>
+  <h3 align="center"> Megusta Programar</h3>
+</div>
 
-### Hi I´m Cristian Vilches
+### 
 
 <!--
 **vilchesbravocristian/vilchesbravocristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
