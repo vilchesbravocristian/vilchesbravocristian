@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div align="left">
-  
+  [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
   <h3>🔨 Languages and Tools</h3>
   <div style="color: green">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
