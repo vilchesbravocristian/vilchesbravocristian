@@ -15,6 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div align="left">
+  &color=_hexcode : default(#B897FF)
   <h3>🔨 Languages and Tools</h3>
   <div style="background-color:#33475b;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
