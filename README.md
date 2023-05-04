@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <h1 align="center">Hi I´m Cristian Vilches</h1>
   <h3 align="center"> Megusta Programar</h3>
 </div>
@@ -15,7 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div align="left">
-  [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
   <h3>🔨 Languages and Tools</h3>
   <div style="color: green">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
